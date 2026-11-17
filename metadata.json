@@ -1,0 +1,6 @@
+{
+  "name": "Car Detailing Home Service — Luxury Car Detailing & 9H Ceramic Studio",
+  "description": "Precision automotive detailing, multi-stage paint correction, 9H ceramic coating, and doorstep mobile detailing across Lahore with live Google Maps integration, interactive before/after transformations, multi-currency pricing, and instant booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
